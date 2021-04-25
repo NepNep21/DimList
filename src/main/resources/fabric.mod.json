@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "dimlist",
+  "version": "${version}",
+
+  "name": "DimList",
+  "description": "Mod to make a dimension list",
+  "authors": [
+    "Nep Nep"
+  ],
+  "contact": {
+    "homepage": "https://curseforge.com/minecraft/mc-mods/dimlist",
+    "sources": "https://github.com/Lolicon2110/DimList"
+  },
+
+  "license": "MIT",
+
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "me.nepnep.dimlist.DimListClientMod"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": ">=0.31.0+1.16",
+    "minecraft": "1.16.x"
+  }
+}
