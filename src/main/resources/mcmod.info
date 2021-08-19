@@ -3,14 +3,11 @@
   "modid": "dimlist",
   "name": "DimList",
   "description": "A mod to make a dimension list",
-  "version": "1.0.0",
-  "mcversion": "",
-  "url": "https://github.com/Lolicon2110/DimList/",
+  "version": "1.1.0",
+  "mcversion": "1.12.2",
+  "url": "https://github.com/NepNep21/DimList/",
   "updateUrl": "",
   "authorList": ["Nep Nep"],
-  "credits": "The forge team",
-  "logoFile": "",
-  "screenshots": [],
-  "dependencies": []
+  "credits": "The forge team"
 }
 ]
